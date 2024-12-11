@@ -3,7 +3,7 @@ import DigitalCLock from "./DigitalCLock"
 
 function App() {
    
-    return(<div>Digital Clock</div>)
+    return(<DigitalCLock/>)
 }
 
 export default App
