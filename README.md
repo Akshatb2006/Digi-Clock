@@ -1,5 +1,9 @@
 # React + Vite
 
+A digital clock showing time in 00:00:00 format with merdians.
+tech stack used: reactJS Html Css
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
