@@ -3,7 +3,7 @@
 A digital clock showing time in 00:00:00 format with merdians.
 tech stack used: reactJS Html Css
 
-
+"C:\Users\Akshat\OneDrive\Pictures\Screenshots\Screenshot (35).png"
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
